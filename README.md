@@ -318,7 +318,7 @@ http://pep8online.com/ per assegurar-vos que seguiu aquestes regles d’estı́l
 L’ús de tabuladors en el codi queda prohibit (zero directe). Els vostres 
 programes en Funx han de seguir l'estil exposat en aquest document.
 
-El termini de lliurament és el **dilluns 9 de gener a les 8:00**.
+El termini de lliurament és el **dilluns 16 de gener a les 8:00**.
 
 Per evitar problemes de còpies,
 no pengeu el vostre projecte en repositoris públics.
